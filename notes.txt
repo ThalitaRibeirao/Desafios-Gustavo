@@ -1,0 +1,7 @@
+git clone - puxer um projeto do github para o vscode
+git add . - adicionar todos os arquivos do projeto 
+git commit -m "mensagem desejada" - definição de checkpoint (caso tenha algum bug voltar para o commit anterior)
+git push - atualizar o projeto no github
+git pull - pegar as atualizações feitas por terceitos do github
+
+
