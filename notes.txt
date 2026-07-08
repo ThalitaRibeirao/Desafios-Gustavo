@@ -4,4 +4,7 @@ git commit -m "mensagem desejada" - definição de checkpoint (caso tenha algum 
 git push - atualizar o projeto no github
 git pull - pegar as atualizações feitas por terceitos do github
 
+let - variável usada para guardar alguma informação (let nome = 'Thalita')
+
+alert () - serve para mostrar uma mensagem na tela em forma de uma pequena janela de aviso, uma das formas de visualizar se o código está funcionando 
 
